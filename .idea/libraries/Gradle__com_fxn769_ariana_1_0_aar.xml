@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fxn769:ariana:1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f705c7e446e32a08cbdddcfbcc708be8/jetified-ariana-1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f705c7e446e32a08cbdddcfbcc708be8/jetified-ariana-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f705c7e446e32a08cbdddcfbcc708be8/jetified-ariana-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25663ba66d53549df8a07c38845eecd7/jetified-ariana-1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25663ba66d53549df8a07c38845eecd7/jetified-ariana-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25663ba66d53549df8a07c38845eecd7/jetified-ariana-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdaf7252301db1ca6c99d988bfd49957/jetified-ariana-1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdaf7252301db1ca6c99d988bfd49957/jetified-ariana-1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdaf7252301db1ca6c99d988bfd49957/jetified-ariana-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fd621f2f81c645bcf210786bd085fdd0/jetified-ariana-1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fd621f2f81c645bcf210786bd085fdd0/jetified-ariana-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fd621f2f81c645bcf210786bd085fdd0/jetified-ariana-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b9bdaf80f9f9c83df79a6a76ce5caaa/jetified-ariana-1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b9bdaf80f9f9c83df79a6a76ce5caaa/jetified-ariana-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b9bdaf80f9f9c83df79a6a76ce5caaa/jetified-ariana-1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a6828e0338adefda1f21c5d050bdfd2/jetified-ariana-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a6828e0338adefda1f21c5d050bdfd2/jetified-ariana-1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a6828e0338adefda1f21c5d050bdfd2/jetified-ariana-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae3256a1fd68f18c8e3ce9974ee96ec2/jetified-ariana-1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae3256a1fd68f18c8e3ce9974ee96ec2/jetified-ariana-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae3256a1fd68f18c8e3ce9974ee96ec2/jetified-ariana-1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fxn769/ariana/1.0/ea48899e09508f2f7a353289404f3abb5cefa615/ariana-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fxn769/ariana/1.0/31a230dbfea0dbfc0a79a5f678c0dc456a17ccc3/ariana-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
